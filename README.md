@@ -1,2 +1,3 @@
 # Example
-Example of github and use of gitflow
+
+Modified Readme Exampling How GH Works
